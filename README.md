@@ -1,4 +1,4 @@
-<a href="https://gitpod.io/#<your-repository-url>">
+<a href="https://gitpod.io/#https://github.com/pxy0592/funnycode">
   <img
     src="https://img.shields.io/badge/Contribute%20with-Gitpod-908a85?logo=gitpod"
     alt="Contribute with Gitpod"
